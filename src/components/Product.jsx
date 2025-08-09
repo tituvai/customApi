@@ -1,5 +1,5 @@
 import React from 'react'
-import Image from './image'
+import Image from '/src/components/Image'
 
 
 const Product = ({productSrc, productBarge, productTitle, productPrice}) => {
